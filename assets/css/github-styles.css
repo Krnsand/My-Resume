@@ -158,6 +158,10 @@ img {
   font-size: 0.9em;
 }
 
+.clearfix {
+  overflow: auto;
+}
+
 /* input field */
 
 #gh-username {
