@@ -400,10 +400,9 @@ button[type="submit"] {
 
 .error-img {
     background: url(../images/error404.jpeg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px;
+    align-items: center;
+    height: 60%;
+    width: auto;
 }
 
 /*--------------------------------------------Map*/
