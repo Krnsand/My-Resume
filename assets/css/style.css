@@ -396,6 +396,16 @@ button[type="submit"] {
     color: #fafafa;
 }
 
+/* -------------------------------------------Error page */
+
+.error-img {
+    background: url(../images/error404.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+}
+
 /*--------------------------------------------Map*/
 div#map {
     min-height: 360px;
