@@ -398,12 +398,7 @@ button[type="submit"] {
 
 /* -------------------------------------------Error page */
 
-.error-img {
-    background: url(../images/error404.jpeg);
-    align-items: center;
-    height: 60%;
-    width: auto;
-}
+
 
 /*--------------------------------------------Map*/
 div#map {
