@@ -391,10 +391,10 @@ footer .cv-pdf i:hover {
 }
 
 .project-img {
-    width: 200px; /* Custom width */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Shadow effect */
+    width: 300px; 
+    height: auto; 
+    border-radius: 5px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
 }
 
 
