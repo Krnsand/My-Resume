@@ -373,9 +373,34 @@ footer .cv-pdf i:hover {
     margin-bottom: 30px;
 }
 
+/*--------------------------------------------Projects*/
+
+
+.project-card {
+    position: relative;
+    width: 50%;
+    max-width: 640px;
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+.project-img {
+    width: 200px; /* Custom width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Shadow effect */
+}
+
+
 /*--------------------------------------------Contact*/
 
-.contact-heading {
+/* .contact-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
@@ -394,7 +419,7 @@ button[type="submit"] {
     margin-bottom: 20px;
     background-color: #e84610;
     color: #fafafa;
-}
+} */
 
 /* -------------------------------------------Error page */
 
